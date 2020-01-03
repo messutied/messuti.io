@@ -1,6 +1,6 @@
 ---
 title: "Statuspal"
-date: 2017-01-01T18:43:26-04:00
+date: 2017-11-01T18:43:26-04:00
 ---
 
 I started [Statuspal](https://statuspal.io) around 2017 inspired by the beatuful and extremely useful status pages
@@ -9,11 +9,3 @@ pages.
 
 ![Statuspal homepage](/statuspal.jpg)
 
-
-TODO:
-- Lesen
-- Appvoice
-- Colors
-- Simula2
-- Quiz
-- LasPelis delivery
